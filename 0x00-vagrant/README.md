@@ -1,0 +1,1 @@
+This is my first directory using a local terminal.
